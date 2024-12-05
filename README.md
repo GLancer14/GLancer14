@@ -7,20 +7,20 @@
   </a>
 </div>
 <h1 align="center">
-  Hello!👋
+  Привет!👋
 </h1>
 
 ---
 
-### 👨‍💻 About me:
-I'm beginner Full-stack Web-developer 🌎.
-- 👔 In 2019 was hired to EPAM Systems company as Function-tester and was involved in IT
-- 👨‍🎓 From 2019 start to study markup and programming languages by myself👨‍🔬
-- 🕰️ In my free time, I like to improve my programming skills by working my own on projects🛠️ and read books about programming 📖
+### 👨‍💻 Обо мне:
+Я начинающий Full-stack веб-разработчик🌎.
+- 👔 В 2019 был трудоустроился в EPAM Systems на позицию функционального тестировщика и попал в мир IT.
+- 👨‍🎓 С 2019 года самостоятельно начал изучать HTML, CSS, SQL и языки программирования👨‍🔬.
+- 🕰️ В свободное время люблю улучшать свои навыки программирования, работая над собственными проектами и читать книги по программированию📖.
 
 ---
 
-### 📃 My skills:
+### 📃 Мои навыки:
 <div id="skills">
   <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML5 icon" width="50px">
   <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS3 icon" width="50px">
@@ -35,5 +35,9 @@ I'm beginner Full-stack Web-developer 🌎.
 
 ---
 
-### 👨‍🎓 My projects:
-- 
+### 👨‍🎓 Мои проекты:
+- Название проекта: “Блог о творчестве, спорте и образе жизни”
+<a href="">Ссылка на проект</a>
+Задачи: вёрстка сайта в соответствии с подходом «Pixel Perfect» и W3C Semantic Web Standarts.
+Используемые технологии: HTML5, CSS3, FlexBox.
+Результаты: Создал сайт для ведения блога о творчестве, спорте и образе жизни, успешно защитил данный проект.
