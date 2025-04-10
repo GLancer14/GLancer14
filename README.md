@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif?cid=ecf05e47eesytfi41vbpfrqdwn0hdgl4vp74u6uj2tivngvq&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500">
 </div>
 <div id="social" align="center">
-  <a href="#">
+  <a href="https://t.me/G_Lancer">
     <img src="https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000" alt="Telegram icon">
   </a>
 </div>
