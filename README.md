@@ -28,6 +28,7 @@
   <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="Node.js icon" width="50px" title="NodeJS">
   <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" alt="MySQL icon" width="50px" title="MySQL">
   <img src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000" alt="PostgreSQL icon" width="50px" title="PostgreSQL">
+  <img src="https://img.icons8.com/?size=100&id=tBBf3P8HL0vR&format=png&color=000000" alt="MongoDB icon" width="50px" title="MongoDB">
   <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="VSCode icon" width="50px" title="VSCode">
   <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git icon" width="50px" title="Git">
   <img src="https://img.icons8.com/?size=100&id=16318&format=png&color=FAB005" alt="GitHub icon" width="50px" title="GitHub">
