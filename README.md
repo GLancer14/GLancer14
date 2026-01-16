@@ -31,7 +31,7 @@
   <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git icon" width="50px">
   <img src="https://img.icons8.com/?size=100&id=16318&format=png&color=FAB005" alt="GitHub icon" width="50px">
   <img src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000" alt="NestJS icon" width="50px">
-  <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" alt="React icon" width="50px">
+  <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" alt="React icon" width="50px" title="React JS">
 </div>
 
 ---
